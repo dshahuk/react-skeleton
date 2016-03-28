@@ -1,0 +1,1 @@
+console.error("ReferenceError: [BABEL] /Users/deepeshshah/Desktop/react-skeleton/src/main.jsx: Unknown option: /Users/deepeshshah/Desktop/react-skeleton/node_modules/react/react.js.Children. Check out http://babeljs.io/docs/usage/options/ for more info while parsing file: /Users/deepeshshah/Desktop/react-skeleton/src/main.jsx");

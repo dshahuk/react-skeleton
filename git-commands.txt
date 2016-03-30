@@ -1,0 +1,19 @@
+-- first you need to use
+
+git init
+
+--command for adding
+
+git remote add origin "https://github.com/dshahuk/react-skeleton"
+
+-- git status
+shows the current status of the repository
+
+-- git add -A
+to add all files to the repository
+
+-- command for commit
+git commit -m "your comment"
+
+-- command for push
+git commit origin master
